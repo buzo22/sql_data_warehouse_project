@@ -108,7 +108,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ##  About Me
 
-Hi there! I'm **Chibuzo Akana**. I’m an Analatics Data Engineer that finds data fun and a wonder!
+Hi there! I'm **Chibuzo Akana**. I’m an Analytics Data Engineer that finds data fun and a wonder!
 
 Let's stay in touch! Feel free to connect with me via:
 
